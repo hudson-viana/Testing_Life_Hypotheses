@@ -1,2 +1,13 @@
 # Testing_Life_Hypotheses
 This repository is dedicated to testing hypotheses related to real-life situations in order to develop practical and valuable solutions for a wide range of life's needs. For example, testing action combinations to beat depression
+
+
+# WHY
+"How to Conquer Cancer," "How to Overcome Anxiety," "How to Beat Hunger." I believe that for every significant issue like these, we will one day find a solution by breaking down the problems into smaller pieces and addressing these smaller parts first. For example, instead of focusing solely on saying "let's beat cancer" something more practical in conquering cancer is to ask, "how can we make existing cancer solutions more affordable for more people to access."
+
+## To conquer these challenges, we only need two things: 
+1. breaking down the needs into clear tasks (preferably tasks that can be completed in one minute).
+(What I mean is that we won't achieve useful and quick results if the discourse continues to be only "let's improve medicine to conquer cancer" or something like "we need to trust our governments to beat cancer" (these are truths, of course) but my opinion is that the discourse should be (for example), "what hinders us in finding a cure for cancer at the moment is that the production of laboratory test vials doesn't keep up with the number of tests that need to be conducted." Based on this, we break it down into smaller tasks, like "what type of plastic is more efficient for mass-producing laboratory test vials." Further breaking down this task, for instance, we find that "the production of plastic type X isn't encouraged because producing plastic type Y is cheaper, but plastic Y is harmful to the environment. You can discourage plastic Y production by not purchasing product Z in the market." In other words, by not buying a product Z at the market (a task taking up to one minute), you're directly contributing to cancer cure advancement. This was just an example. (You can contribute a better example)
+
+2. The second thing is to have a clear understanding of where we are and what the next step is.
+(For instance, suppose it's discovered that "X combined with Y and Z" reduces school dropout rates, but the next challenge is "W". Then, in the following month, let's say a journalist (interviewing a school principal) asks, "what problems do you see in your school today, and how can the community help?" It would be much more useful if the principal responds with "the problem today is 'W' for instance, some regions in our community need better public transportation because there are students who walk 10 kilometers to get to school." In other words, it's by identifying where we are and what the next step is that we can make progress.
